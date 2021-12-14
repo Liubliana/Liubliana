@@ -12,7 +12,7 @@
   <img align="center" alt="Liu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Liu-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg">
   <img align="center" alt="Liu-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Liu-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/mysql.svg">
+  <img align="center" alt="Liu-SQL" height="30" width="40" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/mysql.svg">
   <img align="center" alt="Liu-Haskell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
 </div>
 
@@ -21,5 +21,5 @@
 ## 📥 Find me
  <div>
    <a href="https://www.linkedin.com/in/liustolz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:liubliana2001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:las@cesar.school"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div> 
